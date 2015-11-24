@@ -1,0 +1,17 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "DubbleCam": {
+      "applicationId": "hACovR0CzSANYj9IW6gNBhQ0CfTPwYmmhyCHdMb8",
+      "masterKey": "mjoxT0ulZusF21TsN2bA5e5cvRMKu1pd2jRmYfd8"
+    },
+    "_default": {
+      "link": "DubbleCam"
+    },
+    "dubblecam-cloud": {
+      "link": "DubbleCam"
+    }
+  }
+}
